@@ -1,5 +1,10 @@
 <!-- ![GitHub Logo](/images/logo.png) -->
-![Ali chatraei](Myphoto.jpg)
+<p align="center">
+    <img src="./Myphoto.jpg"/>&nbsp; &nbsp;
+  <img src="./Myphoto2.jpg"/>
+</p>
+
+
 # Hello myfriends :wink:
 * :bowtie: I'm Ali chatraei 
 * :diamond_shape_with_a_dot_inside: From Iran (Isfahan)
