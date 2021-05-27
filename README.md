@@ -1,5 +1,16 @@
-### Hi there 👋
+<!-- ![GitHub Logo](/images/logo.png) -->
 
+# Hello myfriends :wink:
+* :bowtie: I'm Ali chatraei 
+* :diamond_shape_with_a_dot_inside: From Iran (Isfahan)
+* :heart: Love programming & developing specially with JS language
+* :bulb: Sometimes I add useful project to my Github page so I'm glad to follow me and see my projects
+* :paperclip: I'm interested in music, workouts, Sound desing too
+
+```javascript
+const iLove = (message) => console.log(`I love ${message} ❤️`);
+iLove(JavaScript);
+```
 <!--
 **alichatraei/alichatraei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
